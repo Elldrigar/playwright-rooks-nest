@@ -1,15 +1,16 @@
 {
-  "name": "playwright-rooks-nest",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {},
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "packageManager": "pnpm@10.6.5",
-  "devDependencies": {
-    "@playwright/test": "^1.51.1",
-    "@types/node": "^22.14.1"
-  }
+    "name": "playwright-rooks-nest",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "packageManager": "pnpm@10.6.5",
+    "devDependencies": {
+        "@playwright/test": "^1.51.1",
+        "@types/node": "^22.14.1",
+        "prettier": "3.5.3"
+    }
 }
